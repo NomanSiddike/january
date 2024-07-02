@@ -1,0 +1,24 @@
+h3{
+    color:green;
+    text-align: center;
+    font-size: xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+.info{
+    color:rgb(0, 0, 128);
+    font-size:medium ;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+.sell{
+    color:brown;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+ol{
+    background-color: salmon;
+}
